@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi, I'm Eugene 👋</h1>
 
 <p align="center">
@@ -8,43 +9,41 @@
 
 ### About Me
 
-I'm a student interested in software engineering, cybersecurity, and practical technical projects. My work combines coding, security analysis, incident response, networking, and clear technical documentation.
+I'm a student interested in software engineering, cybersecurity, and practical technical projects. My background combines coding, debugging, security analysis, incident response, networking, and technical documentation.
 
-I enjoy building useful tools, debugging code, analyzing systems, and explaining technical decisions in a clear and structured way.
+I enjoy understanding how systems work, identifying problems, and explaining technical decisions clearly.
 
 ---
 
 ### Technical Skills
 
-**Programming:** Python, JavaScript, HTML/CSS, SQL, Bash  
-
-**Software Engineering:** Git, GitHub, debugging, testing, APIs, command-line tools  
-
-**Cybersecurity:** Incident response, network security, digital forensics, vulnerability analysis, MITRE ATT&CK  
-
+**Programming:** Python, JavaScript, TypeScript, HTML/CSS, SQL, Bash  
+**Software Engineering:** Git, GitHub, debugging, testing, APIs, full-stack applications  
+**Cybersecurity:** Incident response, network security, vulnerability analysis, web security, MITRE ATT&CK  
 **Tools:** Linux, Windows, VS Code, Wireshark, Nmap, Metasploit  
 
 ---
 
-### Featured Projects
+### Featured Repositories
 
-**Python Log Analyzer**  
-A Python tool that parses authentication logs and flags suspicious login behavior such as repeated failed logins and possible brute-force attempts.
+**fullstack-ecommerce-platform**  
+Full-stack e-commerce application with product listings, shopping cart functionality, authentication, and backend API structure.
 
-**Task Tracker CLI**  
-A command-line task management app built with Python that lets users add, complete, delete, and view tasks from the terminal.
+**project-management-dashboard**  
+Jira-style project management application focused on issue tracking, workflows, frontend structure, and full-stack application design.
 
-**Expense Tracker**  
-A simple Python project that tracks expenses, categorizes spending, and summarizes totals from user input or CSV files.
+**saas-application-starter**  
+SaaS-style web application starter with authentication, user management, and full-stack application architecture.
 
-**Secure Office Network Architecture**  
-A cybersecurity design project focused on LAN/DMZ segmentation, firewall placement, VPN access, backups, and endpoint security.
+**web-security-testing-lab**  
+Intentionally vulnerable web application environment used to study web security concepts, common vulnerabilities, and application security testing.
 
-**Penetration Testing Lab Report**  
-A sanitized security lab report documenting enumeration, vulnerability discovery, exploitation paths, MITRE ATT&CK mapping, and defensive recommendations.
+**incident-response-playbook-library**  
+Cybersecurity documentation project focused on incident response procedures, triage, containment, recovery, and security operations workflows.
 
 ---
 
-### Current Focus
+### Focus Areas
 
-Building practical software and cybersecurity projects that show clean code, structured thinking, and strong technical documentation.
+Software engineering, cybersecurity, full-stack development, incident response, web security, and clear technical documentation.
+```
