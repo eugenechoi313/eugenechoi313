@@ -1,57 +1,50 @@
- <h1 align="center">Hi, I'm Eugene 👋</h1>
+<h1 align="center">Hi, I'm Eugene 👋</h1>
 
 <p align="center">
-  Cybersecurity • Incident Response • Human Biology Student
+  Software Engineering • Cybersecurity • Technical Problem Solving
 </p>
 
 ---
 
 ### About Me
 
-I'm a student interested in cybersecurity, incident response, threat analysis, and the connection between technology, health, and human systems.
+I'm a student interested in software engineering, cybersecurity, and practical technical projects. My work combines coding, security analysis, incident response, networking, and clear technical documentation.
 
-Currently building my skills in:
-- Incident response
-- Security operations
-- Network security
-- Digital forensics
-- Python scripting
-- Technical documentation
+I enjoy building useful tools, debugging code, analyzing systems, and explaining technical decisions in a clear and structured way.
+
+---
+
+### Technical Skills
+
+**Programming:** Python, JavaScript, HTML/CSS, SQL, Bash  
+
+**Software Engineering:** Git, GitHub, debugging, testing, APIs, command-line tools  
+
+**Cybersecurity:** Incident response, network security, digital forensics, vulnerability analysis, MITRE ATT&CK  
+
+**Tools:** Linux, Windows, VS Code, Wireshark, Nmap, Metasploit  
 
 ---
 
 ### Featured Projects
 
-- **Ransomware Simulation Lab**  
-  Practiced analyzing ransomware behavior, incident response steps, and defensive recommendations.
+**Python Log Analyzer**  
+A Python tool that parses authentication logs and flags suspicious login behavior such as repeated failed logins and possible brute-force attempts.
 
-- **Penetration Testing Lab**  
-  Worked through a multi-host Windows environment, identified weaknesses, collected evidence, and mapped findings to MITRE ATT&CK.
+**Task Tracker CLI**  
+A command-line task management app built with Python that lets users add, complete, delete, and view tasks from the terminal.
 
-- **Secure Office Network Design**  
-  Designed a secure office network with LAN, DMZ, VPN, firewall, backup, and endpoint considerations.
+**Expense Tracker**  
+A simple Python project that tracks expenses, categorizes spending, and summarizes totals from user input or CSV files.
 
----
+**Secure Office Network Architecture**  
+A cybersecurity design project focused on LAN/DMZ segmentation, firewall placement, VPN access, backups, and endpoint security.
 
-### Tools & Skills
-
-`Python` `Linux` `Windows` `Wireshark` `Nmap` `Metasploit` `Git` `GitHub`  
-`Incident Response` `SOC` `Digital Forensics` `MITRE ATT&CK` `Networking`
-
----
-
-### What I'm Learning
-
-- Threat detection and response
-- Cloud and endpoint security
-- Malware analysis basics
-- Security automation
-- Better technical writing
+**Penetration Testing Lab Report**  
+A sanitized security lab report documenting enumeration, vulnerability discovery, exploitation paths, MITRE ATT&CK mapping, and defensive recommendations.
 
 ---
 
-### Connect With Me
+### Current Focus
 
-- LinkedIn: add your LinkedIn link here
-- Resume: add your resume link here
-- Email: add your email here
+Building practical software and cybersecurity projects that show clean code, structured thinking, and strong technical documentation.
