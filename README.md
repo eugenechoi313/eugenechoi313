@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Eugene 👋</h1>
 
 <p align="center">
@@ -46,4 +45,3 @@ Cybersecurity documentation project focused on incident response procedures, tri
 ### Focus Areas
 
 Software engineering, cybersecurity, full-stack development, incident response, web security, and clear technical documentation.
-```
